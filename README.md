@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python numpy and pandas, flash,and SQLite 
 - 💞️ I’m looking to collaborate on data science projects.
-- 📫 How to reach me here at GitHub.
+- 📫 Reach out to me here at GitHub.
 
 <!---
 akamau2022/akamau2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
